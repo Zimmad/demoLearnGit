@@ -1,2 +1,5 @@
-#demoLearnGit
-# a dummy github repositry...to learn github
+# demoLearnGit // heading
+
+  a dummy github repositry...to learn github
+## this is subheading
+
